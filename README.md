@@ -40,7 +40,7 @@ In deze demo gebruik ik Github voor het Selfhost gedeelte. Dit betekent dat in d
 ### Installatie
 
 - Begin met het verkrijgen van de laatste versie van de [plugin-update-checker releases](https://github.com/YahnisElsts/plugin-update-checker/releases).
-- Kopieer de uitgekapte .zip naar de plugins folder in Wordpress.
+- Kopieer de uitgepakte .zip naar de plugins folder in Wordpress.
 - Voor deze POC zal de volgende code in de functions.php van het Blink thema gezet worden, deze code hoeft niet perse in de functions.php, maar raad ik wel aan.
 
 ```
